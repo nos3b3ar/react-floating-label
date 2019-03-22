@@ -6,7 +6,13 @@ Checkout the [DEMO](http://code-kotis.github.io/react-floating-label/)
 __Install it:__
 
 ```sh
-npm install --save react-floating-label
+yarn add https://github.com/nos3b3ar/react-floating-label
+```
+
+or
+
+```sh
+npm install --save https://github.com/nos3b3ar/react-floating-label
 ```
 
 __Usage:__
